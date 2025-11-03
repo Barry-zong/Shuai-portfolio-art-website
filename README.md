@@ -4,33 +4,51 @@
 
 # This repository contains Zhang Zongshuai's interactive art web development project.  
 
-# It serves both as his personal portfolio website codebase, and as the \*\*Final Project\*\* for \*Canvas for Coders (Fall 2025)\*.
+# It serves both as his personal portfolio website codebase and the \*\*Final Project\*\* for \_Canvas for Coders (Fall 2025)\_.
 
 # 
 
-# \### Tech Stack
+# ---
 
-# \- Vite
+# 
 
-# \- Three.js
+# \## Tech Stack
 
-# \- JavaScript (Vanilla)
+# 
+
+# \- \*\*Vite\*\*
+
+# \- \*\*Three.js\*\*
+
+# \- \*\*JavaScript (Vanilla)\*\*
 
 # \- Web-based interactive art experiments
 
 # 
 
-# \### Project Goal
-
-# To explore how visual narrative, interaction, motion and spatial composition on the web can extend personal art language and build a poetic, immersive portfolio experience.
+# ---
 
 # 
 
-# \### Current Status
-
-# Scaffold initialization in progress — base Vite + Three.js scene setup.
+# \## Project Objective
 
 # 
+
+# To explore how web interaction, spatial composition, movement, and poetic visual language can form an immersive interactive portfolio experience.
+
+# 
+
+# ---
+
+# 
+
+# \## Current Status
+
+# 
+
+# \- Base Vite + Three.js scaffold setup
+
+# \- Initial scene building in progress
 
 # 
 
