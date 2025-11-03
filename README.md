@@ -2,9 +2,9 @@
 
 # 
 
-# This repository contains Zhang Zongshuai's interactive art web development project.  
+#### This repository contains Zhang Zongshuai's interactive art web development project.  
 
-# It serves both as his personal portfolio website codebase and the \*\*Final Project\*\* for \_Canvas for Coders (Fall 2025)\_.
+#### It serves both as his personal portfolio website codebase and the \*\*Final Project\*\* for \_Canvas for Coders (Fall 2025)\_.
 
 # 
 
@@ -16,15 +16,15 @@
 
 # 
 
-# \- \*\*Vite\*\*
+\- \*\*Vite\*\*
 
-# \- \*\*Three.js\*\*
+\- \*\*Three.js\*\*
 
-# \- \*\*JavaScript (Vanilla)\*\*
+\- \*\*JavaScript (Vanilla)\*\*
 
-# \- Web-based interactive art experiments
+\- Web-based interactive art experiments
 
-# 
+
 
 # ---
 
@@ -34,7 +34,7 @@
 
 # 
 
-# To explore how web interaction, spatial composition, movement, and poetic visual language can form an immersive interactive portfolio experience.
+To explore how web interaction, spatial composition, movement, and poetic visual language can form an immersive interactive portfolio experience.
 
 # 
 
@@ -46,9 +46,9 @@
 
 # 
 
-# \- Base Vite + Three.js scaffold setup
+\- Base Vite + Three.js scaffold setup
 
-# \- Initial scene building in progress
+\- Initial scene building in progress
 
 # 
 
